@@ -1,4 +1,4 @@
-# 🧮 Python NumPy Course
+# 🧮 Python NumPy
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-Library-orange?logo=numpy)
